@@ -1,0 +1,32 @@
+.flexContainer{
+    display: flex;
+    flex-direction: row;
+    margin:15px;
+    padding: 10px;
+  }
+  #Home{
+    display:flex;
+      align-items:center;
+  }
+  #child1{
+    width:33%;
+  }
+  #child2{
+    width:33%;
+  }
+  #child3{
+    width:33%;
+  }
+  
+  h1{
+    background-color: #FFF6E8;
+    color: #4A1C59;
+    width: 33%;
+  }
+  h3{
+    color: #4A1C59;
+  }
+  p{
+    color:white;
+    background-color: #4A1C59;
+  }
